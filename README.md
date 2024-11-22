@@ -1,5 +1,7 @@
 # Galería de Imágenes con Modal
 
+![Pantallazo del proyecto](pantallazo.jpg)
+
 Este proyecto es una galería interactiva de imágenes creada utilizando **HTML**, **CSS**, y **JavaScript**. Permite al usuario ver imágenes en una cuadrícula y ampliarlas al hacer clic, mostrando una versión más grande en un modal. El modal incluye la funcionalidad de cierre tanto con un botón como al hacer clic fuera de la imagen.
 
 ---
